@@ -1,0 +1,44 @@
+PODS:
+  - IQKeyboardManagerSwift (6.0.4)
+  - KeychainSwift (18.0.0)
+  - Kingfisher (5.8.1):
+    - Kingfisher/Core (= 5.8.1)
+  - Kingfisher/Core (5.8.1)
+  - Realm (3.19.0):
+    - Realm/Headers (= 3.19.0)
+  - Realm/Headers (3.19.0)
+  - RealmSwift (3.19.0):
+    - Realm (= 3.19.0)
+  - Schedule (2.0.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - KeychainSwift
+  - Kingfisher (~> 5.0)
+  - RealmSwift
+  - Schedule
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - Schedule
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  KeychainSwift: c46e1438d121e47459fb304ac88c5e058a2a91ed
+  Kingfisher: de969e451c81ca6c07a454bc36fea84b8b08c3c7
+  Realm: 995d585bcf699aaff226715886c849a29dd3d07f
+  RealmSwift: 35f284a537989f2187b413e5917091948cb87a3f
+  Schedule: 1d9d3fa36b3522cd2c9ebcf9bbe4c9ef3e58e24a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 13f0b51113bbfa5a1035270246f8c6598d8ed461
+
+COCOAPODS: 1.8.1
